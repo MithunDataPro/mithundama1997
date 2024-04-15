@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/damamithun1" target="blank"><img src="https://img.shields.io/twitter/follow/damamithun1?logo=twitter&style=for-the-badge" alt="damamithun1" /></a> </p>
 
+- 🌱 I’m currently learning **Deep Learning & NLP**
+
+- 📫 How to reach me **mithundama.ds97@gmail.com**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -30,17 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithundama1997&" alt="mithundama1997" /></p>
 
-<!--
-**mithundama1997/mithundama1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
